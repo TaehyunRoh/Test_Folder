@@ -1,0 +1,18 @@
+	★ Github 기본 명령어
+
+	1. GitBash 설치 : https://gitforwindows.org/
+		#local 폴더와 웹상의 깃 연결
+	2. git init 
+	3. git remote add origin #repository address
+
+		Pull로 떙겨온다음에 수정하고 Push하자!
+
+#pull	4. git pull origin master
+
+#push	5. git status
+		 #Git과 현재 상태 체크
+#push	6. git add .
+		#변경된 파일들 모두 Tracking
+#push	7. git commit -m "message"
+		#commit을 달아준다. 
+#push	8. git push origin +master	
