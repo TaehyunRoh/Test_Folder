@@ -5,7 +5,7 @@
 	2. git init 
 	3. git remote add origin #repository address
 
-		Pull로 떙겨온다음에 수정하고 Push하자!
+		Pull로 당겨온 다음에 수정하고 Push하자!
 
 #pull	4. git pull origin master
 
