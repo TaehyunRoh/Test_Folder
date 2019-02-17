@@ -15,4 +15,7 @@
 		#변경된 파일들 모두 Tracking
 #push	7. git commit -m "message"
 		#commit을 달아준다. 
-#push	8. git push origin +master	
+#push	8. git push origin +master
+
+
+	# Github에 올려보자	
